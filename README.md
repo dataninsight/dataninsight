@@ -13,7 +13,7 @@ Hello, I'm a passionate and skilled Cloud Data Engineer with expertise in transf
 - # Certifications
 
 ## Microsoft Certified
-- [![DP-203](certificates/dp-203-badge.png)](https://www.yourcertificationlink.com/dp-203)
+- [![DP-203]([certificates/dp-203-badge.png](https://www.bing.com/images/search?view=detailV2&ccid=PZUNwklz&id=3D2EFE7B31D73666A148AD70C21246FD7D3E7EF1&thid=OIP.PZUNwklzY_Pncx_OJOaUfQHaHa&mediaurl=https%3a%2f%2fwww.pue.es%2fAreas%2fTraining%2fResources%2fImages%2fSections%2fCourses%2fProviders%2fMicrosoft%2fCategories%2fAzure%2fbadge-dp-203.png&exph=600&expw=600&q=dp203+badge+image&simid=608011144631507288&FORM=IRPRST&ck=A76E11A48C5416ADF3049C2B8A749CB4&selectedIndex=0&itb=1&ajaxhist=0&ajaxserp=0))](https://www.yourcertificationlink.com/dp-203)
 - [![PL-300](certificates/pl-300-badge.png)](https://www.yourcertificationlink.com/pl-300)
 - [![AZ-900](certificates/az-900-badge.png)](https://www.yourcertificationlink.com/az-900)
 
