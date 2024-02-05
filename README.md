@@ -28,4 +28,4 @@ As a Data Engineer at EY, I've successfully delivered high-quality solutions and
 
 ## Seeking New Challenges
 I am actively seeking new challenges and opportunities where I can apply my skills to contribute to innovative data-driven projects. Let's connect and explore how my expertise in cloud data engineering can benefit your organization.
-[LinkedIn] ([https://www.linkedin.com/in/dataninsight/)https://www.linkedin.com/in/dataninsight/])
+[LinkedIn] (https://www.linkedin.com/in/dataninsight/)https://www.linkedin.com/in/dataninsight/)
