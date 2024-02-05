@@ -10,6 +10,7 @@ Hello, I'm a passionate and skilled Cloud Data Engineer with expertise in transf
 - **Data Modeling:** Efficient storage and retrieval mechanisms
 - **Data Governance:** Ensuring data integrity, security, and compliance
 - **Collaboration:** Cross-functional teamwork with data scientists, analysts, and stakeholders
+- **Visualization Tool:** -PowerBI,Tableau
 
 ## Experience
 I bring a diverse range of experience across Wireless Telecom, E-Recruitment, Information Technology, and the Global Consumer Goods and Services industry. My domain expertise extends to working closely with NLP and ML technologies, deriving insights, and designing recommendation models.
