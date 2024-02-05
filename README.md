@@ -27,9 +27,6 @@ I bring a diverse range of experience across Wireless Telecom, E-Recruitment, In
 ## Professional Achievements
 As a Data Engineer at EY, I've successfully delivered high-quality solutions and demonstrated my commitment to driving data initiatives forward. I constantly seek opportunities to optimize workflows, enhance data quality, and leverage automation for streamlined processes.
 
-## Seeking New Challenges
-I am actively seeking new challenges and opportunities where I can apply my skills to contribute to innovative data-driven projects. Let's connect and explore how my expertise in cloud data engineering can benefit your organization.
-
 ## Social Connection 
 - [LinkedIn] (https://www.linkedin.com/in/dataninsight/)https://www.linkedin.com/in/dataninsight/)
 -
