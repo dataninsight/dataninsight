@@ -28,7 +28,7 @@ I bring a diverse range of experience across Wireless Telecom, E-Recruitment, In
 As a Data Engineer at EY, I've successfully delivered high-quality solutions and demonstrated my commitment to driving data initiatives forward. I constantly seek opportunities to optimize workflows, enhance data quality, and leverage automation for streamlined processes.
 
 ## Social Connection 
-- [LinkedIn] (https://www.linkedin.com/in/dataninsight/)https://www.linkedin.com/in/dataninsight/)
+- [LinkedIn] (https://www.linkedin.com/in/dataninsight/)
 - [Twitter] (https://twitter.com/shraddhavivaan/)
 - [Instagram] (https:://www.instagram.com/dataninsight/)
 - [Medium] (https://medium.com/@dataninsight/)
