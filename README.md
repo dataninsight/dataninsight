@@ -1,3 +1,5 @@
+Hi There 👋
+
 # Introduction
 
 Hello, I'm a passionate and skilled Cloud Data Engineer with expertise in transforming raw data into actionable insights. My focus lies in architecting and implementing scalable data solutions on leading cloud platforms such as **AWS**, **Azure**, and I have a solid understanding of **GCP**.
