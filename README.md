@@ -37,7 +37,7 @@ I constantly seek opportunities to optimize workflows, enhance data quality, and
 - [Twitter] (https://twitter.com/shraddhavivaan/)
 - [Instagram] (https://www.instagram.com/dataninsight/)
 - [Medium] (https://medium.com/@dataninsight/)
-- [![GitHub](https://github.com/.png)](https://github.com/gautamkrishnar)
+- [![GitHub](https://github.com/)](https://github.com/gautamkrishnar)
 [![Twitter](https://i.imgur.com/4Y1ihyu.png)](https://twitter.com/gautamkrishnar)
 [![LinkedIn](https://i.imgur.com/YQcAKsT.png)](https://www.linkedin.com/in/gautamkrishnar/)
 
