@@ -35,7 +35,7 @@ I constantly seek opportunities to optimize workflows, enhance data quality, and
 ## Connect with me
 - [LinkedIn] (https://www.linkedin.com/in/dataninsight/)
 - [Twitter] (https://twitter.com/shraddhavivaan/)
-- [Instagram] (https:://www.instagram.com/dataninsight/)
+- [Instagram] (https://www.instagram.com/dataninsight/)
 - [Medium] (https://medium.com/@dataninsight/)
 
 ### Awards and Achievements
