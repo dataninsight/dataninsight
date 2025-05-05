@@ -33,10 +33,8 @@ I constantly seek opportunities to optimize workflows, enhance data quality, and
 - Certified AWS Cloud Practitioner
 
 ## Connect with me
-- [LinkedIn] (https://www.linkedin.com/in/dataninsight/)
-- [Twitter] (https://twitter.com/shraddhavivaan/)
-- [Instagram] (https://www.instagram.com/dataninsight/)
-- [Medium] (https://medium.com/@dataninsight/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dataninsight/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dataninsight/)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@dataninsight)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shraddhashetty.dataengineer.de@gmail.com)
 
 ### Awards and Achievements
 - Recieved EY Kudos 
